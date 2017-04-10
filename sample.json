@@ -1,0 +1,32 @@
+{
+	"type": "image",
+	"operations": [
+		[
+			{
+				"name": "resize",
+				"width": 470,
+				"height": 245,
+				"mode":"cover",
+				"color":{"r": 0, "g": 0, "b": 0, "a":0}
+			}
+		],
+		[
+			{
+				"name": "resize",
+				"width": 470,
+				"height": 245,
+				"mode":"contain",
+				"color":{"r": 0, "g": 0, "b": 0, "a":0}
+			}
+		],
+		[
+			{
+				"name": "resize",
+				"width": 470,
+				"height": 245,
+				"mode":"resize",
+				"color":{"r": 0, "g": 0, "b": 0, "a":0}
+			}
+		]
+	]
+}

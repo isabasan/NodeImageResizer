@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "uuid": "*",
+    "express": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "connect-multiparty": "*",
+    "lwip": "*"
+  }
+}
